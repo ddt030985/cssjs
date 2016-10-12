@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://inest.vn/' target='_blank'><img src='https://lh3.googleusercontent.com/UwNDcawXM_guHiZ3f3jXfUd5xPXlOxCSDMp_MukuCLF9OUsoikOnYpz8Dmluxm2xQxgok27D=w1366-h768-no' width='500px'/><br/>INEST JSC là đại diện của Amaryllo tại Việt Nam</a>. Amaryllo Việt Nam. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://inest.vn/' target='_blank'><img src='https://lh3.googleusercontent.com/UwNDcawXM_guHiZ3f3jXfUd5xPXlOxCSDMp_MukuCLF9OUsoikOnYpz8Dmluxm2xQxgok27D=w1366-h768-no' width='500px'/><br/>INEST JSC là đại diện - Nhà phân phối chính thức các dòng sản phẩm Camera thông minh của hãng Amaryllo tại Việt Nam</a>. Amaryllo Việt Nam. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
